@@ -15,13 +15,16 @@ The project consists of a single C file:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ip-aggregation-project.git
+   git clone https://github.com/alameluk17/AddressAggregation.git
+   ```
 3. Compile the C file:
    ```bash
    gcc ip_aggregation.c -o ip_aggregation
+   ```
 4. Run the executable:
    ```bash
    ./ip_aggregation
+   ```
 5. Follow the on-screen prompts to input the starting IP address, prefix, and group details.
 
 ## Usage
