@@ -16,10 +16,6 @@ The project consists of a single C file:
 
    ```bash
    git clone https://github.com/your-username/ip-aggregation-project.git
-2. Navigate to project directory
-
-   ```bash
-   cd ip-aggregation-project
 3. Compile the C file:
    ```bash
    gcc ip_aggregation.c -o ip_aggregation
